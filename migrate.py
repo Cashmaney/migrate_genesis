@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 import json
 import sys
 import bech32
@@ -25,6 +26,7 @@ genesis_tokenswap_params = {
         "swaps": None
     }
 }
+
 
 staking_amounts_to_fix: Dict[str, List[Dict[str, str]]] = {
     "secret1tjmq3dqxkd8gak30qwtdq5pwtuyfl7ypkss8l7": [{"old_amnt": "3500404.000004584539591600", "new_amnt": "3465400.027519803049775553"},],
