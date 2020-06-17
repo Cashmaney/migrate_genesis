@@ -46,6 +46,7 @@ staking_amounts_to_fix: Dict[str, List[Dict[str, str]]] = {
     "secret1vxla2uvkcj0lkmxzl67y6gqk2una5muv9tntkv": [{"old_amnt": "500099999999.999999999999999999", "new_amnt": "485246530149.500249450359378484"},],
     "secret1m2f2fjykvldhnky65kdr6zf2hty88th3yekkll": [{"old_amnt": "1500000.000000000000000000", "new_amnt": "1490000.000000000000000000"}],
     "secret1az8rsuq50a78xdh975e40rykaw77s2gumgn59r": [{"old_amnt": "1390000.000000000000000000", "new_amnt": "1370000.000000000000000000"}],
+    "secret1yww5ejscshr0y5eflcx8tjpmzqv493qty3d9vg": [{"old_amnt": "121368017239.000000000000000000", "new_amnt": "120154337239.000000000000000000"}],
 }
 
 
