@@ -23,7 +23,7 @@ genesis_tokenswap_params = {
         "minting_approver_address": "secret1n4pc2w3us9n4axa0ppadd3kv3c0sar8cxl30wq",
         "minting_enabled": False,
         "minting_multiplier": "1.000000000000000000",
-        "swaps": None
+        "swaps": []
     }
 }
 
